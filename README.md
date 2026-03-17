@@ -1,5 +1,5 @@
 Ejercicio: Uso de Clases, Constructores, atributos, getters y setters y
-Arreglos (Array) en Java (corte 2)
+Arreglos (Array)
 Desarrolle un programa en Java utilizando programación orientada a objetos y arreglos
 (array).
 Requisitos del ejercicio
